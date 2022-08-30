@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b7687a2dd4d177f2",
+        "id": "53fc823e78b7e2be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/2022-08-30.md",
+            "file": "Temp/测试模板.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2022-08-30.md",
+                "file": "Temp/测试模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2022-08-30.md",
+                "file": "Temp/测试模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2022-08-30.md"
+                "file": "Temp/测试模板.md"
               }
             }
           },
@@ -136,11 +136,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b7687a2dd4d177f2",
+  "active": "53fc823e78b7e2be",
   "lastOpenFiles": [
-    "Diary/2022-08-29.md",
+    "Template/Header.md",
+    "Temp/测试模板.md",
+    "README.md",
     "Diary/2022-08-30.md",
-    "Pasted image 20220830100957.png",
-    "未命名.md"
+    "Diary/2022-08-29.md",
+    "Pasted image 20220830100957.png"
   ]
 }
