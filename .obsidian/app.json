@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "attachmentFolderPath": "Assets"
 }
