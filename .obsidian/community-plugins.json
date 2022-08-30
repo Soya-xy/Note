@@ -1,4 +1,7 @@
 [
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-tasks-plugin"
 ]
