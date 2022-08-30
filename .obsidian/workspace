@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/2022年.md",
+                "file": "Work/应急系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/2022年.md",
+                "file": "Work/应急系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/2022年.md"
+                "file": "Work/应急系统.md"
               }
             }
           },
@@ -143,12 +143,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231
+    "width": 231,
+    "collapsed": true
   },
-  "active": "2c731684fe44738d",
+  "active": "8d96922b2be88208",
   "lastOpenFiles": [
-    "Work/应急系统.md",
     "Work/2022年.md",
+    "Work/应急系统.md",
     "Diary/2022-08-29.md",
     "Template/TODO.md",
     "Template/Header.md",
