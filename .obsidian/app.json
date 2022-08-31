@@ -2,5 +2,6 @@
   "promptDelete": false,
   "communityPluginSortOrder": "download",
   "attachmentFolderPath": "Assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false
 }
