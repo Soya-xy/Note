@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learn/Go/2022-08-31.md",
+            "file": "Work/工作内容.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Go/2022-08-31.md",
+                "file": "Work/工作内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/Go/2022-08-31.md",
+                "file": "Work/工作内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/Go/2022-08-31.md"
+                "file": "Work/工作内容.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "43e31b596d2cb729",
   "lastOpenFiles": [
+    "Work/2022年.md",
     "TODO/2022任务计划.md",
     "Learn/Go/2022-08-31.md",
     "Work/工作内容.md",
@@ -145,7 +146,6 @@
     "Template/Header.md",
     "README.md",
     "Temp/测试模板.md",
-    "Work/2022年.md",
     "Diary/2022-08-31.md"
   ]
 }

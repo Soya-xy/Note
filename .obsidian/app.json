@@ -3,5 +3,11 @@
   "communityPluginSortOrder": "download",
   "attachmentFolderPath": "Assets",
   "alwaysUpdateLinks": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
