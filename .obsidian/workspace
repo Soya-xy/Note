@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/工作内容.md",
+            "file": "TODO/GO-TODO.md",
             "mode": "source",
             "source": false
           }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/工作内容.md",
+                "file": "TODO/GO-TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/工作内容.md",
+                "file": "TODO/GO-TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/工作内容.md"
+                "file": "TODO/GO-TODO.md"
               }
             }
           },
@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -137,15 +138,15 @@
   },
   "active": "43e31b596d2cb729",
   "lastOpenFiles": [
-    "Work/2022年.md",
     "TODO/2022任务计划.md",
-    "Learn/Go/2022-08-31.md",
-    "Work/工作内容.md",
-    "Work/待办事项.md",
+    "TODO/GO-TODO.md",
+    "TODO/未命名.md",
     "Template/TODO.md",
-    "Template/Header.md",
-    "README.md",
-    "Temp/测试模板.md",
-    "Diary/2022-08-31.md"
+    "Learn/Go/TODO.md",
+    "Learn/Go/2022-08-31.md",
+    "Work/2022-9 月报.md",
+    "Work/2022年.md",
+    "Work/工作内容.md",
+    "Work/待办事项.md"
   ]
 }
