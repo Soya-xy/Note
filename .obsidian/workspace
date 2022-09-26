@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
     "direction": "horizontal",
     "width": 231
   },
-  "active": "43e31b596d2cb729",
+  "active": "6189126842d9774c",
   "lastOpenFiles": [
     "Work/待办事项.md",
     "Work/2022-9 月报.md",
