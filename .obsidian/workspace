@@ -7,8 +7,12 @@
         "id": "611390f2a92cdb66",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Work/2022-10 月报.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/2022-10 月报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/2022-10 月报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/2022-10 月报.md"
+              }
             }
           },
           {
@@ -130,6 +138,8 @@
   },
   "active": "611390f2a92cdb66",
   "lastOpenFiles": [
+    "Work/2022年.md",
+    "Work/2022-10 月报.md",
     "Work/2022-9 月报.md",
     "Work/待办事项.md",
     "Learn/Go/2022-08-31.md",
@@ -137,8 +147,6 @@
     "Diary/2022-08-31.md",
     "Notes/2022-09-07.md",
     "Work/工作内容.md",
-    "TODO/GO-TODO.md",
-    "TODO/2022任务计划.md",
-    "TODO/未命名.md"
+    "TODO/GO-TODO.md"
   ]
 }
