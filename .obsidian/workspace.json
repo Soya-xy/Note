@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c42c0ee7c3140a0",
+        "id": "550be66b499536d3",
         "type": "tabs",
         "children": [
           {
-            "id": "611390f2a92cdb66",
+            "id": "949c2267bcb3e6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ff61f964b6b28b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/2022-10 月报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/2022-10 月报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/2022-10 月报.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +143,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4ff61f964b6b28b7",
+  "active": "949c2267bcb3e6d6",
   "lastOpenFiles": [
-    "Work/2022年.md",
     "Work/2022-10 月报.md",
+    "Work/2022年.md",
     "Work/2022-9 月报.md",
     "Work/待办事项.md",
     "Learn/Go/2022-08-31.md",
