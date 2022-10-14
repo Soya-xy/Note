@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "translucency": true,
   "cssTheme": "California Coast",
-  "interfaceFontFamily": "Input Mono"
+  "interfaceFontFamily": "Input Mono",
+  "accentColor": ""
 }
