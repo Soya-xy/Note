@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "458473cec460c553",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,10 +155,7 @@
     "direction": "horizontal",
     "width": 231
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "17f606f24bc04d8e",
+  "active": "458473cec460c553",
   "lastOpenFiles": [
     "Work/2022-10 月报 11245909.md",
     "Work/2022-10 月报.md",
