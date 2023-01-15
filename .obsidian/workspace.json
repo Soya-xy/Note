@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "f7c5188d2ece9212",
+            "id": "0a65a961c8f3cb49",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Work/年终报告.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/2022-10 月报.md",
+                "file": "Work/年终报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/2022-10 月报.md",
+                "file": "Work/年终报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/2022-10 月报.md"
+                "file": "Work/年终报告.md"
               }
             }
           },
@@ -177,8 +179,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7c5188d2ece9212",
+  "active": "0a65a961c8f3cb49",
   "lastOpenFiles": [
+    "Work/2022-10 月报.md",
     "Work/2022-9 月报.md",
     "Diary/2022-08-29.md",
     "Diary/2022-08-31.md",
@@ -187,7 +190,6 @@
     "Work/工作内容 11245909.md",
     "Work/工作内容.md",
     "Work/待办事项.md",
-    "Work/2022年 11245909.md",
-    "Work/2022年.md"
+    "Work/2022年 11245909.md"
   ]
 }
