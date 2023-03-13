@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eab1c821ba549af9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,15 +181,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0a65a961c8f3cb49",
+  "active": "eab1c821ba549af9",
   "lastOpenFiles": [
     "Work/2022-10 月报.md",
     "Work/2022-9 月报.md",
